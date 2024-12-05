@@ -1,0 +1,2 @@
+Graph Retrieval-Augmented Generation: A Survey
+https://arxiv.org/pdf/2408.08921
