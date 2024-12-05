@@ -1,0 +1,5 @@
+Agentic Retrieval-Augmented Generation for Time Series Analysis 
+https://arxiv.org/pdf/2408.14484v1
+
+AGENT-G: AN AGENTIC FRAMEWORK FOR GRAPH RETRIEVAL AUGMENTED GENERATION
+https://openreview.net/pdf?id=g2C947jjjQ
